@@ -13,11 +13,11 @@
 
 # Cube-OS
 
-Cube-OS is an OpenSource Linux based operating system for CubeSats and other satellites.
+Cube-OS is an OpenSource Linux based operating system and framework for CubeSats and other satellites. (based on [KubOS](https://github.com/kubos))
 
 On this page you find all the repositories you need to run your own satellite.
 
-[More Documentation can be found here](https://github.com/Cube-OS/)
+[More Documentation can be found here](https://github.com/Cube-OS)
 
 ## Cube-OS build resources
 *insert missing links*
