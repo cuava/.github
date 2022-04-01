@@ -23,9 +23,10 @@ On this page you find all the repositories you need to run your own satellite.
 *insert missing links*
 
 ## Cube-OS framework
-[cubeos-service](https://github.com/Cube-OS/cubeos-service)
-API for Services on Cube-OS
-[system-api](https://github.com/Cube-OS/system-api)
+[cubeos-service](https://github.com/Cube-OS/cubeos-service)  
+API for Services on Cube-OS 
+  
+[system-api](https://github.com/Cube-OS/system-api)  
 tbc
 *insert missing links*
 
