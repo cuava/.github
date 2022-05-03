@@ -29,6 +29,10 @@ API for Services on Cube-OS
   
 [system-api](https://github.com/Cube-OS/system-api)  
 tbc
+
+[cubeos-error](https://github.com/Cube-OS/cubeos-error)  
+Error handling for Services on Cube-OS 
+
 <!-- *insert missing links*
  -->
 ## Cube-OS Payload APIs, Services and Apps
