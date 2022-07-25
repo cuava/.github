@@ -35,6 +35,19 @@ Helper API for performing various general system actions
 [cubeos-error](https://github.com/Cube-OS/cubeos-error)  
 Error handling for Services on Cube-OS 
 
+### HAL
+I2C
+[rust-i2c](https://github.com/Cube-OS/rust-i2c) 
+
+UART
+[rust-uart](https://github.com/Cube-OS/rust-uart) 
+
+UDP
+[rust-udp](https://github.com/Cube-OS/rust-udp) 
+
+SPI
+!!!TODO
+
 <!-- *insert missing links*
  -->
 ## Cube-OS Payload APIs, Services and Apps
